@@ -197,4 +197,4 @@ Python 3.3).
 --------
 
 `Оригинальная статья <https://github.com/topper-123/Articles/blob/master/New-interesting-data-types-in-Python3.rst>`_
-была написана `topper-123 <https://github.com/topper-123>`.
+была написана `topper-123 <https://github.com/topper-123>`_.
