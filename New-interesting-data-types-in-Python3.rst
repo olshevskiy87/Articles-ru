@@ -192,3 +192,9 @@ Python 3.3).
 
 `Перевод на корейский язык <https://mnpk.github.io/2017/03/16/python3-data-structure.html>`_ был
 выполнен `mnpk <https://mnpk.github.io/about.html>`_. Спасибо!
+
+Оригинал
+--------
+
+`Оригинальная статья <https://github.com/topper-123/Articles/blob/master/New-interesting-data-types-in-Python3.rst>`_
+была написана `topper-123 <https://github.com/topper-123>`.
